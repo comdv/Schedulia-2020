@@ -1,0 +1,10 @@
+{
+    "loginEmail": "denisversetilov@acetesz.com",
+    "loginPassword": "12345678",
+    "eventTypeName": "Event Test Name",
+    "eventTypedescription": "Event Description",
+    "eventTypeLink": "linkautomationevent",
+    "eventTypeLocationOnMap": "Kyiv",
+    "timeDuration": "35",
+    "startUrl": "http://dev.schedulia.xyz/"
+}
